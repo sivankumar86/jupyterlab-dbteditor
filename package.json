@@ -56,7 +56,11 @@
         "watch:labextension": "jupyter labextension watch ."
     },
     "dependencies": {
-        "@jupyterlab/application": "^4.0.0"
+        "@jupyter/docprovider": "^2.0.11",
+        "@jupyterlab/application": "^4.0.0",
+        "react-ace": "^11.0.1",
+        "react-resizable-panels": "^2.0.16",
+        "typestyle": "^2.4.0"
     },
     "devDependencies": {
         "@jupyterlab/builder": "^4.0.0",
