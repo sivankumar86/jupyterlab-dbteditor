@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: sivankumar86@gmail.com
+author_name: jupyterlab-dbteditor
+data_format: string
+file_extension: ''
+has_binder: true
+has_settings: false
+kind: server
+labextension_name: dbteditor
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension  for developing dbt jobs
+python_name: dbteditor
+repository: https://github.com/sivankumar86/jupyterlab-dbteditor
+test: true
+viewer_name: ''
+
